@@ -1,0 +1,71 @@
+
+body {
+  font-size: 16px;
+  color: blue;
+  background-color: white;
+  font-family: 'Ariel', sans-serif;
+  font-weight: bold;
+}
+#header-nav {
+  background-color: red;
+  border-radius: 0;
+  border: 1px solid black;
+}
+.navbar-brand h1 {
+  font-family: 'Times New Roman', serif;
+  color: white;
+  font-size: 1.2em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+#nav-list {
+  margin-top: 0px;
+}
+#nav-list a {
+  color: black;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.2em; 
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+ border: 1px solid black;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -40px;
+}
+h1 {
+	font-size: 30px;
+	font-weight: bold;
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+#tall-section{
+	 font-size: 16px;
+  color: white;
+  background-color: gray;
+  font-family: 'Ariel', sans-serif;
+  font-weight: lighter;
+  padding: 10px;
+  border: 1px solid black;
+}
+#tall-section h2{ 
+	font-size: 20px;
+	font-weight:bold;
+	padding-bottom:10px;
+	margin: 0px;
+}
+  #collapsable-nav a { 
+    font-size: 20px;
+    font-weight: lighter;
+  }
